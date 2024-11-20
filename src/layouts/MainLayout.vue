@@ -2,7 +2,7 @@
   <!-- q-layout é um componente do Quasar que define a estrutura da página. -->
   <q-layout>
     <!-- q-header é um componente do Quasar que define o cabeçalho da página. -->
-    <q-header class="bg-white text-black">
+    <q-header class="bg-white text-black" elevated>
       <!-- q-toolbar é um componente do Quasar que define a barra de ferramentas do cabeçalho. -->
       <q-toolbar>
         <!-- q-toolbar-title é um componente do Quasar que define o título da barra de ferramentas. -->
